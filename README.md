@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto foi desenvolvido um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
+Neste projeto foi desenvolvido um quiz pra testar os seus conhecimentos técnicos em JavaScript e ter um retorno sobre a quantidade de questões que você acertou.
